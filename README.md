@@ -2,7 +2,7 @@
 
 ## RocksDb for C# #
 RocksDB is a key-value database with a log-structured-merge design, optimized for flash and RAM storage,
-which can be tuned to balance write-, read-, and space-amplification factors.
+which can be tuned to balance write-, read-, and space-amplification factors
 
 RocksDB is developed by Facebook and is based on LevelDB.
 For more information about RocksDB, visit [RocksDB](http://rocksdb.org/) and on [GitHub](https://github.com/facebook/rocksdb)
